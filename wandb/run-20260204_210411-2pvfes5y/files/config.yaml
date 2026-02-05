@@ -1,0 +1,71 @@
+_wandb:
+    value:
+        cli_version: 0.24.2
+        e:
+            j34vhs753xw51qzqqpvn3al3bykkoxar:
+                apple:
+                    ecpuCores: 6
+                    gpuCores: 10
+                    memoryGb: 16
+                    name: Apple M4
+                    pcpuCores: 4
+                    ramTotalBytes: "17179869184"
+                    swapTotalBytes: "11811160064"
+                codePath: /Users/joannachang/Documents/26 Spring/ML in production/Labs/cmu-mlip-model-testing-lab/lab4.ipynb
+                codePathLocal: lab4.ipynb
+                cpu_count: 10
+                cpu_count_logical: 10
+                disk:
+                    /:
+                        total: "494384795648"
+                        used: "373913231360"
+                email: joannac2@andrew.cmu.edu
+                executable: /opt/anaconda3/bin/python
+                git:
+                    commit: cb0af0bb0d0a2d62a061555180629503b0cb88c2
+                    remote: https://github.com/nikitachaudharicodes/cmu-mlip-model-testing-lab.git
+                host: MacBook-Pro-363.local
+                memory:
+                    total: "17179869184"
+                os: macOS-15.6.1-arm64-arm-64bit
+                program: /Users/joannachang/Documents/26 Spring/ML in production/Labs/cmu-mlip-model-testing-lab/lab4.ipynb
+                python: CPython 3.12.2
+                root: /Users/joannachang/Documents/26 Spring/ML in production/Labs/cmu-mlip-model-testing-lab
+                startedAt: "2026-02-05T02:04:11.441978Z"
+                writerId: j34vhs753xw51qzqqpvn3al3bykkoxar
+        m: []
+        python_version: 3.12.2
+        t:
+            "1":
+                - 1
+                - 5
+                - 11
+                - 49
+                - 51
+                - 53
+                - 71
+                - 100
+                - 105
+            "2":
+                - 1
+                - 5
+                - 11
+                - 49
+                - 51
+                - 53
+                - 71
+                - 100
+                - 105
+            "3":
+                - 2
+                - 13
+                - 62
+            "4": 3.12.2
+            "5": 0.24.2
+            "6": 4.57.1
+            "8":
+                - 1
+            "10":
+                - 21
+            "12": 0.24.2
+            "13": darwin-arm64

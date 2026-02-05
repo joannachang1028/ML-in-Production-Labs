@@ -1,0 +1,37 @@
+{
+  "os":  "macOS-15.6.1-arm64-arm-64bit",
+  "python":  "CPython 3.12.2",
+  "startedAt":  "2026-02-05T02:04:11.441978Z",
+  "program":  "/Users/joannachang/Documents/26 Spring/ML in production/Labs/cmu-mlip-model-testing-lab/lab4.ipynb",
+  "codePath":  "/Users/joannachang/Documents/26 Spring/ML in production/Labs/cmu-mlip-model-testing-lab/lab4.ipynb",
+  "codePathLocal":  "lab4.ipynb",
+  "git":  {
+    "remote":  "https://github.com/nikitachaudharicodes/cmu-mlip-model-testing-lab.git",
+    "commit":  "cb0af0bb0d0a2d62a061555180629503b0cb88c2"
+  },
+  "email":  "joannac2@andrew.cmu.edu",
+  "root":  "/Users/joannachang/Documents/26 Spring/ML in production/Labs/cmu-mlip-model-testing-lab",
+  "host":  "MacBook-Pro-363.local",
+  "executable":  "/opt/anaconda3/bin/python",
+  "cpu_count":  10,
+  "cpu_count_logical":  10,
+  "disk":  {
+    "/":  {
+      "total":  "494384795648",
+      "used":  "373913231360"
+    }
+  },
+  "memory":  {
+    "total":  "17179869184"
+  },
+  "apple":  {
+    "name":  "Apple M4",
+    "ecpuCores":  6,
+    "pcpuCores":  4,
+    "gpuCores":  10,
+    "memoryGb":  16,
+    "swapTotalBytes":  "11811160064",
+    "ramTotalBytes":  "17179869184"
+  },
+  "writerId":  "j34vhs753xw51qzqqpvn3al3bykkoxar"
+}

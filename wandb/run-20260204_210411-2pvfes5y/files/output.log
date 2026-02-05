@@ -1,0 +1,2 @@
+[34m[1mwandb[0m: [33mWARNING[0m The get_url method is deprecated and will be removed in a future release. Please use `run.url` instead.
+W&B run URL: https://wandb.ai/joannac2-carnegie-mellon-university/mlip-lab4-slices-2026/runs/2pvfes5y

@@ -1,0 +1,1 @@
+{"columns": ["slice", "model", "accuracy"], "data": [["emoji_gt3", "baseline_model", 0.0], ["emoji_gt3", "candidate_model", 1.0], ["has_negation", "baseline_model", 0.5714285714285714], ["has_negation", "candidate_model", 0.35714285714285715], ["has_hashtag", "baseline_model", 0.6683937823834197], ["has_hashtag", "candidate_model", 0.46113989637305697]]}

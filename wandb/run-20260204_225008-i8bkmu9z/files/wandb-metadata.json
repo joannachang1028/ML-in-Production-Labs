@@ -1,0 +1,17 @@
+{
+  "os":  "macOS-15.6.1-arm64-arm-64bit",
+  "python":  "CPython 3.12.2",
+  "startedAt":  "2026-02-05T03:50:08.864896Z",
+  "program":  "/Users/joannachang/Documents/26 Spring/ML in production/Labs/cmu-mlip-model-testing-lab/lab4.ipynb",
+  "codePath":  "/Users/joannachang/Documents/26 Spring/ML in production/Labs/cmu-mlip-model-testing-lab/lab4.ipynb",
+  "codePathLocal":  "lab4.ipynb",
+  "git":  {
+    "remote":  "https://github.com/nikitachaudharicodes/cmu-mlip-model-testing-lab.git",
+    "commit":  "cb0af0bb0d0a2d62a061555180629503b0cb88c2"
+  },
+  "email":  "joannac2@andrew.cmu.edu",
+  "root":  "/Users/joannachang/Documents/26 Spring/ML in production/Labs/cmu-mlip-model-testing-lab",
+  "host":  "MacBook-Pro-363.local",
+  "executable":  "/opt/anaconda3/bin/python",
+  "writerId":  "4kq2zaa4t613xnxz1n46uzy79vvu1yjf"
+}
